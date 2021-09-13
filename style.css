@@ -353,7 +353,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: white!important;
+    color: white;
 }
 
 .container {
@@ -363,7 +363,6 @@ a {
 .hero-bloc-text {
     font-size: 38px;
 }
-
 p {
     font-size: 16px;
 }
