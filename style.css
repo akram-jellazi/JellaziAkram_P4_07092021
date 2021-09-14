@@ -137,7 +137,9 @@ a:hover {
 .l-bloc h1 a,
 .l-bloc h2 a,
 .l-bloc h3 a,
-.l-bloc p a {
+.l-bloc p a, 
+#bloc-0 > div.collapse.navbar-collapse.navbar-1.special-dropdown-nav > ul > li:nth-child(1) > a,
+#bloc-0 > div.collapse.navbar-collapse.navbar-1.special-dropdown-nav > ul > li:nth-child(2) > a{
     color: rgba(0, 0, 0, .6);
 }
 
@@ -352,7 +354,7 @@ label,
 }
 a {
     font-family: "helvetica";
-    font-weight: 400;
+    font-weight: 600;
     color: white;
 }
 
